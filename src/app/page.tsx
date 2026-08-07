@@ -129,7 +129,7 @@ export default function Home() {
         <div className="flex justify-between items-center w-full px-margin-mobile md:px-margin-desktop max-w-7xl mx-auto h-20">
           <a className="flex items-center gap-2" href="#">
             <Image
-              className="h-10 w-auto object-contain"
+              className="h-12 w-auto object-contain"
               src="/Fundedstart stitch logo.png"
               alt="FundedStart logo featuring a dark navy blue letter F merging into an upward pointing emerald green arrow"
               width={512}

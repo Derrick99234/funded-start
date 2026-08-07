@@ -14,6 +14,9 @@ const manrope = Manrope({
 
 export const metadata: Metadata = {
   title: "FundedStart - Fund the Start. Fuel the Future.",
+  icons: {
+    icon: "/Fundedstart logo.png",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
