@@ -1,0 +1,184 @@
+African Startup Investment Platform — Landing Page Structure
+1. Hero Section
+Headline
+Bet on Africa's next generation of great companies.
+Supporting Copy
+Invest in promising African startups at the early stages, while giving founders the capital they need to build what comes next.
+Primary CTAs
+I'm an Investor
+I'm a Founder
+
+2. The Problem
+Headline
+Great ideas don't always fail because they're bad ideas. Sometimes they run out of money before they get the chance to prove themselves.
+For Founders
+Accessing early-stage capital is difficult when you don't yet have the traction investors want to see.
+For Investors
+Early-stage African startup opportunities are difficult for individuals to discover, evaluate and access.
+Closing Statement
+We're building the bridge between the two.
+
+3. How It Works
+01 — Discover
+Explore promising African startups raising early-stage capital.
+02 — Invest
+Invest an amount you're comfortable risking.
+03 — Grow Together
+As the company grows and its valuation increases, your investment has the potential to increase in value as well.
+Illustrative Example
+200 people × ₦100,000 = ₦20 million
+Small individual investments can collectively provide a startup with meaningful early-stage capital.
+
+4. Why Individual Investors?
+Headline
+You don't need millions to invest in Africa's future.
+Core Message
+We're creating a way for more people to participate in the growth of African startups without needing to be a traditional venture capitalist.
+Key Ideas
+Small tickets.
+Invest an amount appropriate to your own risk appetite.
+More investors.
+A startup can raise capital from a broad community rather than relying on a single large investor.
+Shared risk.
+Individuals can potentially spread their investments across multiple early-stage businesses rather than concentrating their capital in one company.
+Access to opportunities.
+Discover early-stage African businesses that may otherwise be difficult for individual investors to access.
+Risk Disclaimer
+Early-stage startup investing is high risk. You can lose some or all of your investment.
+
+5. The Evidence
+Headline
+The funding gap is real.
+Use this section to establish that the problem is supported by credible research and data.
+Content
+Display 3–5 important statistics about:
+African startup funding
+Early-stage funding
+Funding concentration
+Startup survival
+Access to capital
+The financing gap for African businesses
+Each statistic should link to its original source.
+Research & Articles
+Include 4–6 carefully selected articles, reports or research publications from credible organizations covering the African early-stage funding problem.
+Each article card should contain:
+Organization/publication
+Article title
+One-sentence summary
+Publication date
+Read Article →
+Potential sources include:
+IFC
+African Development Bank
+FMO
+World Bank
+Partech
+AVCA
+Briter Bridges
+Africa: The Big Deal
+
+6. Help Us Build It
+Headline
+We're building this with founders and investors — not for them.
+Supporting Copy
+We're validating the problem before building the solution.
+We're speaking with African founders and individual investors to understand what prevents promising businesses from accessing early-stage capital and what a better system should look like.
+Founder CTA
+Are you building an African startup?
+Tell us about your business, funding needs and challenges accessing capital.
+[Founder Survey]
+Investor CTA
+Would you invest in an early-stage African startup?
+Tell us how you would think about investing in promising African businesses.
+[Investor Survey]
+Keep both surveys short — ideally 3–5 minutes.
+
+7. Final CTA
+Headline
+The next great African company could already exist.
+Supporting Copy
+It just needs the opportunity to survive long enough to become one.
+CTAs
+Join the Investor Waitlist
+Join the Founder Waitlist
+
+Recommended Landing Page Flow
+NAVIGATION
+
+        ↓
+
+HERO
+Bet on Africa's next generation
+of great companies.
+
+[I'm an Investor] [I'm a Founder]
+
+        ↓
+
+THE PROBLEM
+Great ideas don't always fail because
+they're bad ideas. Sometimes they run
+out of money before they prove themselves.
+
+Founder problem ↔ Investor problem
+
+        ↓
+
+HOW IT WORKS
+Discover → Invest → Grow Together
+
+200 people × ₦100,000 = ₦20m
+
+        ↓
+
+WHY INDIVIDUAL INVESTORS?
+Small tickets.
+More investors.
+Shared risk.
+Access to opportunities.
+
+        ↓
+
+THE EVIDENCE
+"The funding gap is real."
+
+3–5 statistics
++
+4–6 research/articles
+
+        ↓
+
+HELP US BUILD IT
+Founder Survey | Investor Survey
+
+        ↓
+
+FINAL CTA
+The next great African company
+could already exist.
+
+[Join Investor Waitlist]
+[Join Founder Waitlist]
+
+        ↓
+
+FOOTER
+
+Core Product Positioning
+The landing page should not primarily position the product as:
+"A crowdfunding platform for African startups."
+Instead, position it as:
+Making early-stage African startup investing accessible to more people.
+Supporting Positioning Statement
+We connect ambitious African founders with individuals willing to take an early bet on their future.
+The deeper thesis is:
+Founders need capital to become investment-ready.
+Individuals want access to Africa's next generation of companies.
+The platform connects the two.
+
+Important Product Consideration
+At this validation stage, avoid locking the messaging too tightly around the exact investment mechanism.
+The core problem you're validating is:
+Can we create a trusted way for individuals to participate in early-stage African startup opportunities while giving founders access to the capital they need to grow?
+The eventual mechanism could involve equity crowdfunding or another regulated investment structure, depending on regulatory requirements and what your founder/investor research reveals.
+

@@ -1,0 +1,32 @@
+FundedStart Brand Identity
+Brand Vision
+FundedStart is a trusted crowdfunding platform helping early-stage African startups access pre-seed capital while enabling investors to discover vetted opportunities.
+
+Brand Attributes
+•	Trustworthy
+•	Innovative
+•	Growth-oriented
+•	Accessible
+•	Professional
+Color Palette
+Role	Color	Hex	Meaning
+Primary	Deep Navy	#0B1F3A	Trust & security
+Secondary	Emerald Green	#18A957	Growth & funding
+Accent	Gold	#F4B400	Opportunity & success
+Background	Soft White	#F8FAFC	Clean UI
+Surface	Light Gray	#E5E7EB	Cards & borders
+Text	Charcoal	#1F2937	Readable typography
+UI Guidelines
+Primary button: #18A957 with white text
+Hover: #128346
+Secondary: White with #0B1F3A border
+Danger: #DC2626
+Gradient
+linear-gradient(135deg, #0B1F3A 0%, #18A957 100%)
+Typography
+Headings: Manrope, Sora, or Plus Jakarta Sans
+Body: Inter
+Brand Personality
+Modern, trustworthy, optimistic, scalable, and investor-friendly.
+
+
